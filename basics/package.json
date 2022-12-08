@@ -21,6 +21,8 @@
     "nodemon": "^2.0.0"
   },
   "dependencies": {
-    "colors": "^1.4.0"
+    "bcrypt": "^5.1.0",
+    "colors": "^1.4.0",
+    "electron-reload": "^2.0.0-alpha.1"
   }
 }
