@@ -20,5 +20,7 @@
     "electron": "^9.0.0",
     "nodemon": "^2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
