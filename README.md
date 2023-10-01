@@ -22,3 +22,13 @@ Here is a specific example of a problem that our product will solve for our targ
 A young professional in Cameroon wants to buy a home, but she has difficulty finding reliable information about listings and prices. She also doesn't have a lot of time to visit properties in person. Our product would allow her to search for listings online, view photos and videos of properties, and contact sellers directly. She could also use our product to get pre-approved for a mortgage and to complete the entire purchase process online.
 
 We believe that our product has the potential to make a significant impact on the lives of people in Africa. By making it easier for people to buy, sell, and rent property, we can help to build communities and create prosperity.
+
+---------------------------------------------------------------------------------------------------------------
+
+We are focused on the specific needs of the African market. This includes addressing challenges such as limited access to financing, lack of transparency in the real estate market, and language barriers. For example, we allow users to pay for rent and other real estate-related expenses using mobile money, and we provide a variety of language options.
+
+We offer a comprehensive solution for all aspects of the real estate transaction. This means that users can use our platform to find a property, get pre-approved for a mortgage, and complete the entire purchase process online. This saves users time and hassle, and it makes the real estate process more accessible to everyone.
+
+We are committed to building a sustainable business. We plan on building a strong team in place with a deep understanding of the African real estate market, and we have a clear vision for the future of our company. We are also focused on building relationships with local businesses and organizations, and on investing in marketing and education to increase awareness of our platform.
+
+We don't just aim at ending by providing marketplace solutions in the real estate market. We want to expand the services we offer. For example we will make partnership with banks so as to build a platform where investors can apply for mortgage.
