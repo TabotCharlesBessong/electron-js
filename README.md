@@ -32,3 +32,7 @@ We offer a comprehensive solution for all aspects of the real estate transaction
 We are committed to building a sustainable business. We plan on building a strong team in place with a deep understanding of the African real estate market, and we have a clear vision for the future of our company. We are also focused on building relationships with local businesses and organizations, and on investing in marketing and education to increase awareness of our platform.
 
 We don't just aim at ending by providing marketplace solutions in the real estate market. We want to expand the services we offer. For example we will make partnership with banks so as to build a platform where investors can apply for mortgage.
+
+## Chalenges in expanding | solutions
+- We need to establish ourselves as a reliable and transparent platform that users can trust.
+- Each country may have unique regulations and legal requirements that we must adhere to. 
