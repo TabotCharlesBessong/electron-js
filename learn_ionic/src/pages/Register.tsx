@@ -14,7 +14,7 @@ import {
   useIonRouter,
 } from "@ionic/react";
 import React from "react";
-import logo from "../../assets/logo.png";
+import logo from "../assets/logo.png";
 import { logInOutline, personCircleOutline } from "ionicons/icons";
 
 const Register: React.FC = () => {
