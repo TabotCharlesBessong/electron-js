@@ -1,0 +1,33 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "TabotCharlesBessong-patch-1",
+    "drawer_menu",
+    "ionic_component",
+    "ionic_grid",
+    "learn_ionic",
+    "login_page",
+    "master",
+    "zip_app"
+  ],
+  "parent": {
+    "TabotCharlesBessong-patch-1": "master",
+    "drawer_menu": "master",
+    "ionic_component": "master",
+    "ionic_grid": "master",
+    "learn_ionic": "master",
+    "login_page": "master",
+    "master": null,
+    "zip_app": "master"
+  },
+  "order": [
+    "master",
+    "TabotCharlesBessong-patch-1",
+    "drawer_menu",
+    "ionic_component",
+    "ionic_grid",
+    "learn_ionic",
+    "login_page",
+    "zip_app"
+  ]
+}
