@@ -1,0 +1,7 @@
+{
+  "name": "learn_ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
