@@ -43,7 +43,7 @@
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-legacy": "^8.0.1",
     "@vitejs/plugin-react": "^6.0.1",
-    "cypress": "^12.7.0",
+    "cypress": "^15.17.0",
     "eslint": "^8.35.0",
     "eslint-plugin-react": "^7.32.2",
     "jsdom": "^29.0.0",
